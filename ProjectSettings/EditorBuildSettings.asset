@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 1c5ba0a4b6fd76c43abbbc7b8472ccfa
+  - enabled: 1
+    path: Assets/Scenes/EndlessGame.unity
+    guid: b9602c26e341ef44b926fdc9eb26ab96
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: ae7fc2fdfbf5b6b439886bc7a2020be4
+  - enabled: 1
+    path: Assets/Scenes/ModSelector.unity
+    guid: 8f8b27d1b5ae881418db4c464aac8d95
+  - enabled: 1
+    path: Assets/Scenes/ClassicModeSelector.unity
+    guid: 299ab34bfc0fd9749b9eb97c2d9e5bdf
+  - enabled: 1
+    path: Assets/Scenes/QuestedGame.unity
+    guid: cc7118d6348b4244c974de80d4f7d523
